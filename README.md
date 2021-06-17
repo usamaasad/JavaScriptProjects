@@ -1,2 +1,2 @@
 # JavaScriptProjects
- This file contains front end coding
+ This repository contains 20 projects developed with HTML,CSS & Javascript.
